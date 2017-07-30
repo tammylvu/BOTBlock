@@ -1,0 +1,146 @@
+/*topbar start*/
+
+.topbar {
+	position: fixed;
+	width: 100%;
+	height: 60px;
+	background-color: #000000;
+	top: 0;
+	font-family: 'Open Sans', sans-serif;
+
+}
+
+.logo {
+	color: #c9c238;
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+	width: 15%;
+	font-size: 40px;
+	text-align: center;
+	float: left;
+}
+
+.dice img {
+	width: 40px;
+	height: 40px;
+}
+
+.dice {
+	width: 7%;
+	float: left; 
+	position: relative;
+	padding: 5px 0px;
+}
+
+.lobby {
+	color: white;
+	float: left;
+	position: relative;
+	width: 7%;
+	font-size: 30px;
+	top: 50%;
+	transform: translateY(-50%);
+	margin: 0px 5px 0px 5px;
+}
+
+.lobby:hover {
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+.upcoming {
+	color: white;
+	float: left;
+	position: relative;
+	width: 12%;
+	font-size: 30px;
+	top: 50%;
+	transform: translateY(-50%);
+	margin: 0px 5px 0px 5px;
+}
+
+.upcoming:hover {
+	text-decoration: underline;
+	cursor: pointer;
+
+}
+
+.history {
+    color: white;
+	float: left;
+	position: relative;
+	width: 10%;
+	font-size: 30px;
+	top: 50%;
+	transform: translateY(-50%);
+}
+
+.history:hover {
+	cursor: pointer;
+	text-decoration: underline;
+}
+
+.initials {
+	color: white;
+	float: left;
+	position: relative;
+	width: 5%;
+	font-size: 20px;
+	top: 50%;
+	transform: translateY(-50%);
+	margin: 0px 5px 0px 5px;
+
+}
+
+.propic {
+	float: left;
+	position: relative;
+	width: 5%;
+	top: 50%;
+	transform: translateY(-50%);
+}
+
+.balance {
+	color: white;
+	float: left;
+	position: relative;
+	width: 5%;
+	font-size: 15px;
+	top: 50%;
+	transform: translateY(-50%);
+	margin: 0px 5px 0px 5px;
+
+}
+
+.amount {
+	color: white;
+	float: left;
+	position: relative;
+	width: 5%;
+	font-size: 15px;
+	top: 50%;
+	transform: translateY(-50%);
+	margin: 0px 5px 0px 5px;
+
+}
+
+.addfunds {
+	color: white;
+	float: left;
+	position: relative;
+	font-weight: 700;
+	width: 10%;
+	font-size: 17px;
+	top: 50%;
+	transform: translateY(-50%);
+	background-color: #9dcc86;
+	height: 65%;
+	padding: 3px 3px;
+	border-radius: 5px;
+	text-align: center;
+	display: block;
+	margin: 10px 5px 10px 5px;
+}
+
+/*topbar end*/
