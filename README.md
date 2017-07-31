@@ -1,4 +1,4 @@
-# BOTBlock
+# BOTBlock - Bet on the Blockchain
 Created a fantasy sports(currently NBA specific) trading platform on Ethereum using a smart contract written in Solidity.
 
 Detailed Spec:
