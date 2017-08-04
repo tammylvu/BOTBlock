@@ -13,7 +13,7 @@ Tournaments Avaiable to Play:
 
 Roster of a User:
 
-![User Roster Screenshot](/demo/roster.png?raw=true "Roster")
+![User Roster Screenshot](/demo/blank-roster.png?raw=true "Roster")
 
 Add Player:
 
