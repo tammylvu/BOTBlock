@@ -7,25 +7,30 @@ Detailed Spec:
 - Tournament displays the games playing, players avaiable to choose, size of pot, logic to determine winners, and entry fees.
 - Built with Solidity security in mind
 
+Demo of the front end: https://youtu.be/5SEzcUiUkKI
+
+
 Tournaments Avaiable to Play:
 
-![Tournaments Available Screenshot](/demo/tournaments.png?raw=true "Tournaments")
+<img src="/demo/tournaments.png" width="400" />
+
 
 Roster of a User:
 
-![User Roster Screenshot](/demo/blank-roster.png?raw=true "Roster")
+<img src="/demo/blank-roster.png" width="400" />
+
 
 Add Player:
 
-![Add Player Screenshot](/demo/add-player.png?raw=true "Add Player")
+<img src="/demo/add-player.png" width="400" />
+
 
 Delete Player:
 
-![Delete Player Screenshot](/demo/delete-player.png?raw=true "Delete Player")
+<img src="/demo/delete-player.png" width="400" />
 
 
 
-Demo of the front end: https://youtu.be/5SEzcUiUkKI
 
 For a more detailed explanation of the motivation behind this project and further details, check this out: 
 
