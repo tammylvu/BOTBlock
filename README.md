@@ -32,5 +32,5 @@ Delete Player:
 
 
 
-For a more detailed explanation of the motivation behind this project and further details, check this out: 
-
+For a more detailed explanation of the motivation behind this project and further details, see this: 
+https://drive.google.com/file/d/0B0gbXCU5veRtYlBQQnBnVmRIU2M/view?usp=sharing
