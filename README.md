@@ -1,5 +1,7 @@
 # BOTBlock - Bet on the Blockchain
-Created a fantasy sports(currently NBA specific) trading platform on Ethereum using a smart contract written in Solidity.
+
+Problem: Current fantasy sports platforms have been accused of being unfair, riddled with bots, and not transparent enough.
+We created a fantasy sports(currently NBA specific) trading platform on Ethereum using a smart contract written in Solidity that solves all of these problems.
 
 Detailed Spec:
 - Has a user contract and a tournament contract to implement the functionalities of each part of the project
